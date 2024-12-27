@@ -1,0 +1,29 @@
+id,first_name,last_name,age,position,shirt_number,nacionality,contract_expiration,market_value
+1,Marc-André,ter Stegen,32,goalkeeper,1,Germany,30-06-2028,20.00
+2,Pau,Cubarsí,17,defender,2,Spain,30-06-2027,40.00
+3,Alejandro,Balde,21,defender,3,Spanish,30-06-2028,40.00
+4,Ronald,Araujo,25,defender,4,Uruguay,30-06-2026,70.00
+5,Iñigo,Martínez,33,defender,5,Spain,30-06-2025,5.00
+6,Pablo,Gavi,20,midfielder,6,Spain,30-06-2026,90.00
+7,Ferran,Torres,24,forward,7,Spain,30-06-2027,30.00
+8,Pedri,Gonzáles,22,midfielder,8,Spain,30-06-2026,80.00
+9,Robert,Lewandowski,36,forward,9,Poland,30-06-2026,15.00
+10,Ansu,Fati,21,forward,10,Spain,30-06-2027,15.00
+11,Raphinha,,28,forward,11,Brazil,30-06-2027,60.00
+12,Iñaki,Peña,25,goalkeeper,13,Spain,30-06-2026,8.00
+13,Pablo,Torre,21,midfielder,14,Spain,30-06-2026,5.00
+14,Andreas,Christensen,28,defender,15,Denmark,30-06-2026,30.00
+15,Fermín,López,21,midfielder,16,Spain,30-06-2029,50.00
+16,Marc,Casadó,21,midfielder,17,Spain,30-06-2028,15.00
+17,Pau,Víctor,23,forward,18,Spain,30-06-2029,5.00
+18,Lamine,Yamal,17,forward,19,Spain,30-06-2026,150.00
+19,Dani,Olmo,26,midfielder,20,Spain,30-06-2030,60.00
+20,Frenkie,de Jong,27,midfielder,21,Netherlands,30-06-2026,60.00
+21,Jules,Koundé,26,defender,23,France,30-06-2027,55.00
+22,Eric,García,23,defender,24,Spain,30-06-2026,20.00
+23,Wojciech,Szczęsny,34,goalkeeper,25,Poland,30-06-2025,3.00
+24,Ander,Astralaga,20,goalkeeper,26,Spain,30-06-2026,1.00
+25,Marc,Bernal,17,midfielder,28,Spain,30-06-2026,5.00
+26,Héctor,Fort,18,defender,32,Spain,30-06-2026,10.00
+27,Gerard,Martín,22,defender,35,Spain,30-06-2025,3.00
+28,Sergi,Domínguez,19,defender,36,Spain,30-06-2027,1.00

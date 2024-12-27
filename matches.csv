@@ -1,0 +1,25 @@
+id,opponent,match_date,result,site,stadium,competition,attendance
+1,Valencia,17-08-2024,W,away,Mestalla,La Liga,46673
+2,Athletic Club,24-08-2024,W,home,Olimpic Lluís Companys,La Liga,46448
+3,Rayo Vallecano,27-08-2024,W,away,Vallecas,La Liga,14031
+4,Valladolid,31-08-2024,W,home,Olimpic Lluís Companys,La Liga,44359
+5,Girona,15-09-2024,W,away,Estadio Municipal de Montilivi,La Liga,13891
+6,Monaco,19-09-2024,L,away,Stade Louis II,UEFA Champions League,13296
+7,Villareal,22-09-2024,W,away,Estadio de la Cerámica,La Liga,22048
+8,Getafe,25-09-2024,W,home,Olimpic Lluís Companys,La Liga,44407
+9,Osasuna,28-09-2024,L,away,El Sadar,La Liga,22322
+10,Young Boys,01-10-2024,W,home,Olimpic Lluís Companys,La Liga,45097
+11,Alavés,06-10-2024,W,away,Mendizorrotza,La Liga,19468
+12,Sevilla,20-10-2024,W,home,Olimpic Lluís Companys,La Liga,47848
+13,Bayern Múnich,23-10-2024,W,home,Olimpic Lluís Companys,UEFA Champions League,50312
+14,Real Madrid,26-10-2024,W,away,Santiago Bernabéu,La Liga,78192
+15,Espanyol,03-11-2024,W,home,Olimpic Lluís Companys,La Liga,48843
+16,Crvena zvezda,06-11-2024,W,home,Olimpic Lluís Companys,UEFA Champions League,48886
+17,Real Sociedad,10-11-2024,L,away,Reale Arena,La Liga,36194
+18,Celta de Vigo,23-11-2024,D,away,Balaídos,La Liga,24573
+19,Brest,26-11-2024,W,home,Olimpic Lluís Companys,UEFA Champions League,46317
+20,Las Palmas,30-11-2024,L,home,Olimpic Lluís Companys,La Liga,43921
+21,Mallorca,03-12-2024,W,away,Estadi Mallorca Son Moix,La Liga,22352
+22,Betis,07-12-2024,D,away,Benito Villamarín,La Liga,54749
+23,Borussia Dortmund,11-12-2024,W,away,Signal Iduna Park,UEFA Champions League,81365
+24,Leganés,15-12-2024,L,home,Olimpic Lluís Companys,La Liga,39523
